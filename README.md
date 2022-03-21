@@ -4,7 +4,7 @@ This task is designed for Web Developer roles at the Ellen MacArthur Foundation 
 
 The goal is for us to assess your approach to solution design, as well as to understand where you are at with your coding skills.
 
-The task should take 1-3 hours, and should be completed using React. If you have any questions, please do ask, and if you find the task taking significantly longer, please submit what you have - we are not looking for perfection!
+The task should take 1-3 hours, and **should be completed using React**. If you have any questions, please do ask, and if you find the task taking significantly longer, please submit what you have - we are not looking for perfection!
 
 ## Setup 🤖
 You can use this repository as a basis for completing the task, however, first you will need to create a copy of it, so that you can push your changes to it:
