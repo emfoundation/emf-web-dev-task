@@ -15,7 +15,7 @@ You can use this repository as a basis for completing the task, however, first y
 Please commit **all** work to this repository. All work must be on the `main` branch when you submit - we will only look at `main`. 
 If you would like to, please host your solution so the output can be easily viewed. Otherwise, please include instructions for running your solution locally.
 
-Once you have completed the task, please ensure that you have pushed your code and solutions, and then add [@georgemillard](https://github.com/georgemillard) and [@merton](https://github.com/Merton) as collaborators to your repository. 
+Once you have completed the task, please ensure that you have pushed your code and solutions, and then add [@georgemillard](https://github.com/georgemillard) and [@lettie16](https://github.com/lettie16) as collaborators to your repository. 
 You can then email us the URL to your repository, where we can review.
 
 ## The Challenge
